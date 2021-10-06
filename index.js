@@ -8,3 +8,4 @@ nextElementSibling.innerHTML = "Veronika Vertlina";
 // document.firstElementChild.lastElementChild.firstElementChild.
 // nextElementSibling.nextElementSibling.
 // nextElementSibling.lastElementChild.innerHTML = "Angela";
+document.querySelectorAll("li a")[0].style.color = "red";
