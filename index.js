@@ -9,3 +9,4 @@ nextElementSibling.innerHTML = "Veronika Vertlina";
 // nextElementSibling.nextElementSibling.
 // nextElementSibling.lastElementChild.innerHTML = "Angela";
 document.querySelectorAll("li a")[0].style.color = "red";
+document.querySelector("button").style.backgroundColor = "yellow";
